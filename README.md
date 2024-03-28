@@ -1,4 +1,4 @@
-This repository contains representative code and scripts used to analyze data included in the manuscript "Longitudinal sequencing and variant detection of SARS-CoV-2 across Southern California wastewater from April 2020 – August 2021."
+This repository contains representative code and scripts used to analyze data included in the manuscript "Longitudinal sequencing and variant detection of SARS-CoV-2 across Southern California wastewater." which is now accepted for publication at Applied Microbiology.
 
 A preprint of the manuscript can be found here: https://www.medrxiv.org/content/10.1101/2023.04.14.23288559v1.
 
